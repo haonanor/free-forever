@@ -10,7 +10,7 @@
 
 ### 存储
 #### 文件
-[七牛](https://s.qiniu.com/q2Qzyy)
+* [七牛](https://s.qiniu.com/q2Qzyy)
 存储：10G/月 CDN：10G/月。个人博客，公司网站等等项目完全够用了。
 
 
