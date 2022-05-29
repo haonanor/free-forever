@@ -24,6 +24,7 @@
 * [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 是一个超级强大的后台前端解决方案，它基于 vue 和 element-ui实现。完全开源免费
 * [VuePress](https://v2.vuepress.vuejs.org/zh/) Vue 驱动的静态网站生成器,以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。完全开源免费。VUE 官方出品
 * [uniapp](https://www.dcloud.io/) 强大的多端开发框架，是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。
+* [Chameleon](http://cml.didi.cn/)  是一个跨多端开发的统一解决方案，它可以像变色龙一样适应不同的环境。一次开发，多端运行，一端所见即多端所见。
 
 ### WEB前端组件
 * [CodeMirror](https://codemirror.net/) 是一个用 JavaScript 为浏览器实现的通用文本编辑器。实现代码高亮，开箱即用，支持100多种语言
