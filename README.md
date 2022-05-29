@@ -26,11 +26,26 @@
 * [uniapp](https://www.dcloud.io/) 强大的多端开发框架，是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。
 * [Chameleon](http://cml.didi.cn/)  是一个跨多端开发的统一解决方案，它可以像变色龙一样适应不同的环境。一次开发，多端运行，一端所见即多端所见。
 * [layui-VUE](http://www.layui-vue.com/zh-CN/index) 是 一 套 Vue 3.0 的 桌 面 端 组 件 库 , Layui 的 另 一 种 呈 现 方 式
+* [MUI](https://mui.com/) 包含用于更快发布新功能的基础 React UI 组件库。
+* [storybook](https://storybook.js.org/)是一个开源工具，用于单独构建 UI 组件和页面。它简化了 UI 开发、测试和文档。
+* [ionic-framework](https://ionicframework.com/) 一个开源移动工具包，用于构建高质量、跨平台的原生和 Web 应用程序体验。使用单一代码库更快地移动，使用 JavaScript 和 Web 随处运行。
+* [Materialize](https://materializecss.com/)，一个基于 Material Design 的 CSS 框架
+* [Vuetify](https://vuetifyjs.com/) 是一个带有精美组件的 Vue UI 库
 
 ### WEB前端组件
 * [CodeMirror](https://codemirror.net/) 是一个用 JavaScript 为浏览器实现的通用文本编辑器。实现代码高亮，开箱即用，支持100多种语言
 * [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON 而不会有丢失数字信息的风险
 * [icestark](https://icestark.gitee.io/) 阿里开源项目，面向大型系统的微端解决方案，前端可以想后端的微服务一样进行开发。每个服务都可以完全独立，并将他们聚合在同一个管理系统中
+* [three.js](https://threejs.org/) JavaScript 3D 库.
+* [Front-End-Checklist](https://frontendchecklist.io/)开源版的任务清单
+* [atom](https://atom.io/)一个开源的编辑器
+* [Chart.js](https://www.chartjs.org/) 为设计人员和开发人员提供简单而灵活的 JavaScript 图表
+* [Prettier](https://prettier.io/) 是一个代码格式化程序。
+* [anime.js](https://animejs.com/) JavaScript 动画引擎
+* [jest](https://jestjs.io/) js测试工具
+* [pixijs](https://pixijs.com/) HTML5 创建引擎
+使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容。
+
 
 ### 服务端组件
 * [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
@@ -39,6 +54,7 @@
 
 ### 开发工具
 * [Flipper](https://fbflipper.com/)是一个调试 iOS、Android 和 React Native 应用程序的平台。从简单的桌面界面可视化、检查和控制您的应用程序。按原样使用 Flipper 或使用插件 API 对其进行扩展。
+* [deployer](https://deployer.org/)PHP项目部署工具，超级强大，完全免费开源
 
 ### 管理系统
 * [strapi](https://strapi.io/) 是领先的开源无头 CMS。它是 100% JavaScript，完全免费可定制。非常强大的系统，尽量少的代码实现更多的功能
@@ -46,6 +62,7 @@
 * [payload](https://payloadcms.com/) 使用 TypeScript、Node.js、React 和 MongoDB 构建的免费和开源 无头CMS 和应用程序框架
 * [mdBook](https://rust-lang.github.io/mdBook/)是一个使用 Markdown 创建书籍的命令行工具。它非常适合创建产品或 API 文档、教程、课程材料或任何需要简洁、易于导航和可定制的演示文稿。
 * [若依](http://ruoyi.vip/)基于SpringBoot的权限管理系统
+* [hexo](https://hexo.io/zh-cn/)一个快速、简单且强大的博客框架，由 Node.js 提供支持。
 
 ### 项目管理
 * [禅道](https://www.zentao.net/) 非常优秀的项目管理系统，开源版本完全开放免费，不限商用
@@ -57,6 +74,7 @@
 ### 测试工具
 * [Apache JMeter](https://jmeter.apache.org/) 可用于测试静态和动态资源、Web 动态应用程序的性能。
 它可用于模拟服务器、服务器组、网络或对象上的重负载，以测试其强度或分析不同负载类型下的整体性能。
+* [Playwright](https://playwright.dev/)是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。
 
 ### 解决方案
 * [网易云信IM](https://yunxin.163.com/price) 不仅可以快速实现私信、即时聊天、消息通知、游戏对战通讯等常见功能，还能完整打造类似 Discord、微信、子弹短信、易信等的大用户量级社交产品。永久免费
