@@ -7,7 +7,7 @@
 
 #### 如果您觉得，对您有价值，或者帮助到您。请您帮我点个Star。这个Star也是永久免费的哦~。~
 
-
+### 如果下面的内容有出现收费情况，请发issue告知，万分感谢
 
 ### 存储
 * [七牛](https://s.qiniu.com/q2Qzyy)
@@ -16,8 +16,7 @@
 ### 服务器
 * [CloudBase](https://cloudbase.net/) 免费版配合[VuePress](https://v2.vuepress.vuejs.org/zh/) 一起使用，真的是好用到爆，展示文档，免费版完全够用。而且这是腾讯云的产品。
 
-### 科学上网（翻墙）
-* [极光](https://arr003.network/) 我用过的最好用的翻墙，最重要是永久免费，速度还不错。如果您有更好的欢迎发issue
+
 
 ### WEB前端模板
 * [D2-ADMIN](https://d2.pub/zh/) 是一个完全 开源免费 的企业中后台产品前端集成方案,它基于 vue 和 element-ui实现。
