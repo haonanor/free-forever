@@ -45,8 +45,9 @@
 * [jest](https://jestjs.io/) js测试工具
 * [pixijs](https://pixijs.com/) HTML5 创建引擎
 使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容。
-
-
+* [video.js](https://videojs.com/) 一款开源的H5视频播放器
+* [SheetJS](https://sheetjs.com/) excel数据工具包
+* [clipboard.js](https://clipboardjs.com/) 现代复制到剪贴板
 ### 服务端组件
 * [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
 
