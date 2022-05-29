@@ -25,6 +25,7 @@
 * [VuePress](https://v2.vuepress.vuejs.org/zh/) Vue 驱动的静态网站生成器,以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。完全开源免费。VUE 官方出品
 * [uniapp](https://www.dcloud.io/) 强大的多端开发框架，是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。
 * [Chameleon](http://cml.didi.cn/)  是一个跨多端开发的统一解决方案，它可以像变色龙一样适应不同的环境。一次开发，多端运行，一端所见即多端所见。
+* [layui-VUE](http://www.layui-vue.com/zh-CN/index) 是 一 套 Vue 3.0 的 桌 面 端 组 件 库 , Layui 的 另 一 种 呈 现 方 式
 
 ### WEB前端组件
 * [CodeMirror](https://codemirror.net/) 是一个用 JavaScript 为浏览器实现的通用文本编辑器。实现代码高亮，开箱即用，支持100多种语言
@@ -34,8 +35,17 @@
 ### 服务端组件
 * [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
 
+
+
+### 开发工具
+* [Flipper](https://fbflipper.com/)是一个调试 iOS、Android 和 React Native 应用程序的平台。从简单的桌面界面可视化、检查和控制您的应用程序。按原样使用 Flipper 或使用插件 API 对其进行扩展。
+
 ### 管理系统
 * [strapi](https://strapi.io/) 是领先的开源无头 CMS。它是 100% JavaScript，完全免费可定制。非常强大的系统，尽量少的代码实现更多的功能
+* [kkFileView](https://kkfileview.keking.cn/zh-cn/index.html)kkFileView为文件文档在线预览解决方案，该项目使用流行的spring boot搭建，易上手和部署，基本支持主流办公文档的在线预览，如doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等
+* [payload](https://payloadcms.com/) 使用 TypeScript、Node.js、React 和 MongoDB 构建的免费和开源 无头CMS 和应用程序框架
+* [mdBook](https://rust-lang.github.io/mdBook/)是一个使用 Markdown 创建书籍的命令行工具。它非常适合创建产品或 API 文档、教程、课程材料或任何需要简洁、易于导航和可定制的演示文稿。
+* [若依](http://ruoyi.vip/)基于SpringBoot的权限管理系统
 
 ### 项目管理
 * [禅道](https://www.zentao.net/) 非常优秀的项目管理系统，开源版本完全开放免费，不限商用
