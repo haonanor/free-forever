@@ -23,11 +23,15 @@
 * [D2-ADMIN](https://d2.pub/zh/) 是一个完全 开源免费 的企业中后台产品前端集成方案,它基于 vue 和 element-ui实现。
 * [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 是一个超级强大的后台前端解决方案，它基于 vue 和 element-ui实现。完全开源免费
 * [VuePress](https://v2.vuepress.vuejs.org/zh/) Vue 驱动的静态网站生成器,以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。完全开源免费。VUE 官方出品
+* [uniapp](https://www.dcloud.io/) 强大的多端开发框架，是一个使用 Vue.js (opens new window)开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/飞书/QQ/快手/钉钉/淘宝）、快应用等多个平台。
 
 ### WEB前端组件
 * [CodeMirror](https://codemirror.net/) 是一个用 JavaScript 为浏览器实现的通用文本编辑器。实现代码高亮，开箱即用，支持100多种语言
 * [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON 而不会有丢失数字信息的风险
 * [icestark](https://icestark.gitee.io/) 阿里开源项目，面向大型系统的微端解决方案，前端可以想后端的微服务一样进行开发。每个服务都可以完全独立，并将他们聚合在同一个管理系统中
+
+### 服务端组件
+* [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
 
 ### 管理系统
 * [strapi](https://strapi.io/) 是领先的开源无头 CMS。它是 100% JavaScript，完全免费可定制。非常强大的系统，尽量少的代码实现更多的功能
@@ -43,9 +47,21 @@
 * [Apache JMeter](https://jmeter.apache.org/) 可用于测试静态和动态资源、Web 动态应用程序的性能。
 它可用于模拟服务器、服务器组、网络或对象上的重负载，以测试其强度或分析不同负载类型下的整体性能。
 
+### 解决方案
+* [网易云信IM](https://yunxin.163.com/price) 不仅可以快速实现私信、即时聊天、消息通知、游戏对战通讯等常见功能，还能完整打造类似 Discord、微信、子弹短信、易信等的大用户量级社交产品。永久免费
+
 ### 微信开源
 * [itChat](https://github.com/littlecodersh/ItChat) 是一个开源的微信个人号接口，使用python调用微信从未如此简单。
 使用不到三十行的代码，你就可以完成一个能够处理所有信息的微信机器人。
+* [wechaty](https://github.com/wechaty/wechaty) 一款开源的个人微信接口，和itchat类似
+* [EasyWechat](https://easywechat.com/) PHP开源的微信开发库，非常好用，完全开源。内部的源码设计非常优雅。强烈建议PHPer去读一下
+
+
+
+### 淘宝客api
+#### 当下主流的淘客平台都是用这些开发api开发的，如果有需要这样的解决方案可以自行对比一下
+* [多麦联盟](https://open.duomai.com/) 提供当下各大电商平台接口的聚合平台
+* [大淘客开放平台](https://www.dataoke.com/) 提供当下各大电商平台api接口的聚合平台
 
 ### 免费api
 #### 很多人还在用一些付费的接口，其实很多接口数据都是免费提供的，例如快递接口，简单接入一下，就可以完成接入。如果你完成了聚合，你也可以进行通过api进行盈利
