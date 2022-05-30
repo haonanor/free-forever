@@ -7,7 +7,7 @@
 
 #### 如果您觉得，对您有价值，或者帮助到您。请您帮我点个Star。这个Star也是永久免费的哦~。~
 
-### 如果下面的内容有出现收费情况，请发issue告知，万分感谢
+### 如果下面的内容有出现收费情况，请发issue告知，如果你有好的免费资源，也可以发出来分享给大家，万分感谢
 
 ### 存储
 * [七牛](https://s.qiniu.com/q2Qzyy)
@@ -50,7 +50,7 @@
 * [clipboard.js](https://clipboardjs.com/) 现代复制到剪贴板
 ### 服务端组件
 * [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
-
+* [Sa-token](https://sa-token.dev33.cn/index.html) 一个轻量级 java 权限认证框架，让鉴权变得简单、优雅！
 
 
 ### 开发工具
@@ -64,7 +64,7 @@
 * [mdBook](https://rust-lang.github.io/mdBook/)是一个使用 Markdown 创建书籍的命令行工具。它非常适合创建产品或 API 文档、教程、课程材料或任何需要简洁、易于导航和可定制的演示文稿。
 * [若依](http://ruoyi.vip/)基于SpringBoot的权限管理系统
 * [hexo](https://hexo.io/zh-cn/)一个快速、简单且强大的博客框架，由 Node.js 提供支持。
-
+* [Joplin](https://joplinapp.org/)  是一款开源免费的多端笔记系统
 ### 项目管理
 * [禅道](https://www.zentao.net/) 非常优秀的项目管理系统，开源版本完全开放免费，不限商用
 * [云效](https://devops.aliyun.com/) 阿里云产品，非常强大的项目管理系统工具，强大到不可描述。我们公司就使用这个项目进行敏捷开发。免费使用
