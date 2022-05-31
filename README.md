@@ -15,6 +15,7 @@
 
 ### 服务器
 * [CloudBase](https://cloudbase.net/) 免费版配合[VuePress](https://v2.vuepress.vuejs.org/zh/) 一起使用，真的是好用到爆，展示文档，免费版完全够用。而且这是腾讯云的产品。
+* [Aws](https://www.amazonaws.cn/free/) NoSQL 数据库，消息队列，日志记录等等永久免费；服务器，关系型数据库，API网关，物联网等等免费12个月
 
 ### 科学上网（翻墙）
 * [极光](https://arr003.network/) 我用过的最好用的翻墙，最重要是永久免费，速度还不错。如果您有更好的欢迎发issue
@@ -51,7 +52,7 @@
 ### 服务端组件
 * [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
 * [Sa-token](https://sa-token.dev33.cn/index.html) 一个轻量级 java 权限认证框架，让鉴权变得简单、优雅！
-
+* [CloudWeGo](https://www.cloudwego.io/zh/) 是字节跳动基础架构团队开源出来的项目，它是一套可快速构建企业级云原生架构的中间件集合，它专注于微服务通信与治理，具备高性能、可扩展、高可靠的特点，且关注易用性。
 
 ### 开发工具
 * [Flipper](https://fbflipper.com/)是一个调试 iOS、Android 和 React Native 应用程序的平台。从简单的桌面界面可视化、检查和控制您的应用程序。按原样使用 Flipper 或使用插件 API 对其进行扩展。
@@ -86,8 +87,9 @@
 * [wechaty](https://github.com/wechaty/wechaty) 一款开源的个人微信接口，和itchat类似
 * [EasyWechat](https://easywechat.com/) PHP开源的微信开发库，非常好用，完全开源。内部的源码设计非常优雅。强烈建议PHPer去读一下
 
-
-
+### 软件
+* [ToDesk](https://www.todesk.com/) 一款免费而且不限速的远控软件支持链接 手机和电脑
+* [影刀](https://www.winrobot360.com/) 一款非常强大的自动化解决方案，但更倾向于开发者，对小白用户可能不太友好。如果这个软件用得好，真的能解决很多繁琐的工作
 
 ### 淘宝客api
 #### 当下主流的淘客平台都是用这些开发api开发的，如果有需要这样的解决方案可以自行对比一下
@@ -110,3 +112,5 @@
 * [驾考题库](https://wx.jdcloud.com/market/datas/17/11865) 公安部最新驾照考试题库，分小车、客车、货车、摩托车4类，科目一和科目四2种。可按顺序或者随机获取。 2000次/天
 * [公交地铁](https://wx.jdcloud.com/market/datas/17/11862) 全国400多个城市公交车次信息、站站智能规划(公交、步行、自驾)、经过指定公交站的车次、附近公交站等信息查询； 2、返回标准接口，返回结果完备、快速、准确； 3、数据接口每日检查、更新，专人负责维护，保证程序正常运行。1000次/天
 * [身份证识别](https://wx.jdcloud.com/market/datas/30/13868) 识别二代居民身份证正反面的关键字段识别，包括姓名、性别、民族、出生日期、住址、身份证号、签发机关、有效期限，识别准确率业内领先，稳定可靠 2000次/天
+* [万年历](https://docs.topthink.com/think-api/1861639) 包含三个接口：根据日期查询当天详细信息、查询近期假期和查询当年假期。 免费使用：100次/天
+* [历史上的今天](https://docs.topthink.com/think-api/1861655) 接口1：根据日期查询事件 接口2：根据事件id查询详细信息
