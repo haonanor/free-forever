@@ -21,6 +21,7 @@
 * [极光](https://arr003.network/) 我用过的最好用的翻墙，最重要是永久免费，速度还不错。如果您有更好的欢迎发issue
 
 ### WEB前端模板
+* [arco](https://pro.arco.design/) 字节跳动的开源UI组件，还有后台管理系统，做的相当不错
 * [D2-ADMIN](https://d2.pub/zh/) 是一个完全 开源免费 的企业中后台产品前端集成方案,它基于 vue 和 element-ui实现。
 * [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 是一个超级强大的后台前端解决方案，它基于 vue 和 element-ui实现。完全开源免费
 * [VuePress](https://v2.vuepress.vuejs.org/zh/) Vue 驱动的静态网站生成器,以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。完全开源免费。VUE 官方出品
@@ -68,7 +69,7 @@
 * [Joplin](https://joplinapp.org/)  是一款开源免费的多端笔记系统
 ### 项目管理
 * [禅道](https://www.zentao.net/) 非常优秀的项目管理系统，开源版本完全开放免费，不限商用
-* [云效](https://devops.aliyun.com/) 阿里云产品，非常强大的项目管理系统工具，强大到不可描述。我们公司就使用这个项目进行敏捷开发。免费使用
+* [云效](https://devops.aliyun.com/) 阿里云产品，非常强大的项目管理系统工具，强大到不可描述。我们公司就使用这个项目进行敏捷开发,支持云端开发，非常牛。免费使用
 
 ### WEB运维工具
 * [宝塔](https://www.bt.cn/?invite_code=MV9lcHVpeWE=) 强大的运维工具面板，支持linux、window系统，提供免费的ssl证书，宝塔服务器面板，一键全能部署及管理
@@ -80,6 +81,7 @@
 
 ### 解决方案
 * [网易云信IM](https://yunxin.163.com/price) 不仅可以快速实现私信、即时聊天、消息通知、游戏对战通讯等常见功能，还能完整打造类似 Discord、微信、子弹短信、易信等的大用户量级社交产品。永久免费
+* [Minio](http://www.minio.org.cn/) 是一款开源且高性能对象存储
 
 ### 微信开源
 * [itChat](https://github.com/littlecodersh/ItChat) 是一个开源的微信个人号接口，使用python调用微信从未如此简单。
