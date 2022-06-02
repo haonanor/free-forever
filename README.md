@@ -35,7 +35,7 @@
 * [ionic-framework](https://ionicframework.com/) 一个开源移动工具包，用于构建高质量、跨平台的原生和 Web 应用程序体验。使用单一代码库更快地移动，使用 JavaScript 和 Web 随处运行。
 * [Materialize](https://materializecss.com/)，一个基于 Material Design 的 CSS 框架
 * [Vuetify](https://vuetifyjs.com/) 是一个带有精美组件的 Vue UI 库
-
+* [amis](https://aisuda.bce.baidu.com/amis/zh-CN/docs/index) 百度出品，JSON数据驱动页面，你如果是一个懂JSON格式的后端，也能写出一套非常好看的前端。是一个低代码前端框架，它使用 JSON 配置来生成页面，可以减少页面开发工作量，极大提升效率。
 ### WEB前端组件
 * [CodeMirror](https://codemirror.net/) 是一个用 JavaScript 为浏览器实现的通用文本编辑器。实现代码高亮，开箱即用，支持100多种语言
 * [lossless-json](https://github.com/josdejong/lossless-json) 解析 JSON 而不会有丢失数字信息的风险
@@ -53,7 +53,7 @@
 * [SheetJS](https://sheetjs.com/) excel数据工具包
 * [clipboard.js](https://clipboardjs.com/) 现代复制到剪贴板
 ### 服务端组件
-* [pinyin](https://github.com/overtrue/pinyin) 基于词库的中文转拼音优质解决方案
+* [pinyin](https://github.com/overtrue/pinyin) 基于PHP词库的中文转拼音优质解决方案
 * [Sa-token](https://sa-token.dev33.cn/index.html) 一个轻量级 java 权限认证框架，让鉴权变得简单、优雅！
 * [CloudWeGo](https://www.cloudwego.io/zh/) 是字节跳动基础架构团队开源出来的项目，它是一套可快速构建企业级云原生架构的中间件集合，它专注于微服务通信与治理，具备高性能、可扩展、高可靠的特点，且关注易用性。
 
