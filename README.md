@@ -21,7 +21,9 @@
 * [极光](https://arr003.network/) 我用过的最好用的翻墙，最重要是永久免费，速度还不错。如果您有更好的欢迎发issue
 
 ### WEB前端模板
-* [arco](https://pro.arco.design/) 字节跳动的开源UI组件，还有后台管理系统，做的相当不错
+* [arco](https://pro.arco.design/) 字节跳动的开源UI组件，还有后台管理系统，做的相当不错，支持React 和 Vue 两个版本
+* [Ant Design](https://ant.design/index-cn) 蚂蚁金服旗下的开源UI组件，还配有漂亮的后台管理系统
+* [Element Plus](https://element-plus.gitee.io/zh-CN/) 饿了么旗下的开源Vue UI组件
 * [D2-ADMIN](https://d2.pub/zh/) 是一个完全 开源免费 的企业中后台产品前端集成方案,它基于 vue 和 element-ui实现。
 * [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/) 是一个超级强大的后台前端解决方案，它基于 vue 和 element-ui实现。完全开源免费
 * [VuePress](https://v2.vuepress.vuejs.org/zh/) Vue 驱动的静态网站生成器,以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。完全开源免费。VUE 官方出品
@@ -67,6 +69,7 @@
 * [若依](http://ruoyi.vip/)基于SpringBoot的权限管理系统
 * [hexo](https://hexo.io/zh-cn/)一个快速、简单且强大的博客框架，由 Node.js 提供支持。
 * [Joplin](https://joplinapp.org/)  是一款开源免费的多端笔记系统
+* [renren-fast](https://www.renren.io/community/project) 一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
 ### 项目管理
 * [禅道](https://www.zentao.net/) 非常优秀的项目管理系统，开源版本完全开放免费，不限商用
 * [云效](https://devops.aliyun.com/) 阿里云产品，非常强大的项目管理系统工具，强大到不可描述。我们公司就使用这个项目进行敏捷开发,支持云端开发，非常牛。免费使用
